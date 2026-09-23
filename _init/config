@@ -1,0 +1,9 @@
+Package: gl_recurring_reversal
+Name: GL Recurring & Bulk Reversal
+DefaultStatus: inactive
+Description: Recurring GL journal templates, Copy Journal, and Bulk Journal Reversal (opposite ST_JOURNAL; never void). Monthly generate is user-triggered.
+Author: Prpsure
+Type: extension
+InstallPath: modules/gl_recurring_reversal
+Filename: gl_recurring_reversal-2.4.1-1
+Version: 2.4.1-1
