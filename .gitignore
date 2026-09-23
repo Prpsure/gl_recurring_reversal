@@ -1,0 +1,7 @@
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+_seed_*.php
+_export_verify.csv
+*.pkg
