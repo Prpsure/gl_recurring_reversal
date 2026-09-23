@@ -1,7 +1,14 @@
+# Local / OS junk
 *.bak
 *.tmp
 .DS_Store
 Thumbs.db
+
+# UAT / packaging artefacts (not part of FA install)
 _seed_*.php
 _export_verify.csv
 *.pkg
+_tools/
+
+# Docs live in the solution binder — exclude if present under this package
+docs/
